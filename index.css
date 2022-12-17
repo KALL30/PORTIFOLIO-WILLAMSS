@@ -122,7 +122,7 @@ li .btn-test:hover {
 
 .text h1 {
     color: white;
-    padding-top: 10px;
+    padding-top: 25px;
 }
 
 .text span {
@@ -133,6 +133,7 @@ li .btn-test:hover {
 .text p {
     color: white;
     margin-top: 0px;
+    font-size: 20px;
 }
 
 .redes-sociais a {
